@@ -2,6 +2,8 @@
 
 ## I'm a Design Technologist from Bahia, Brazil!
 
+[Check out my portfolio!](https://nataliapinheiro.dev/)
+
 - 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
 
 - 💬  Ask me about **Design Systems, UI/UX Design, and Front end development**
