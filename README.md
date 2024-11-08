@@ -1,12 +1,12 @@
 ## Hi there, I'm Natalia 👋
 
-## I'm a Design Technologist from Bahia, Brazil!
+## I'm a Software Engineer located in Paraná, Brazil!
 
 [Check out my portfolio!](https://nataliapinheiro.dev/)
 
-- 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
+- 🔭  I’m currently working at [Carta](https://carta.com/)
 
-- 💬  Ask me about **Design Systems, UI/UX Design, and Front end development**
+- 💬  Ask me about **Design Systems, and Front end development**
 
 - 📫  How to reach me **natalhandopinheiro@gmail.com**
 
